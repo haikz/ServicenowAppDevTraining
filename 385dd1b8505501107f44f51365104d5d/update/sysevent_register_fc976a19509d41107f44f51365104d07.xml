@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description/>
+        <event_name>x_cdltd_loaner_req.reminder</event_name>
+        <fired_by/>
+        <queue/>
+        <suffix>reminder</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 08:26:07</sys_created_on>
+        <sys_id>fc976a19509d41107f44f51365104d07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.reminder</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">385dd1b8505501107f44f51365104d5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">385dd1b8505501107f44f51365104d5d</sys_scope>
+        <sys_update_name>sysevent_register_fc976a19509d41107f44f51365104d07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 08:26:07</sys_updated_on>
+        <table>x_cdltd_loaner_req_loaner_request</table>
+    </sysevent_register>
+</record_update>
